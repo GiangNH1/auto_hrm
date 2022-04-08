@@ -1,0 +1,347 @@
+[2022-04-07 21:04:10,701] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 21:04:15,414] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 21:04:15,685] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 21:04:15,686] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 21:04:16,301] Login As Admin - step 03: Verify login success
+[2022-04-07 21:04:16,719]  -------------------------- PASSED -------------------------- 
+[2022-04-07 21:04:52,440] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 21:04:56,997] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 21:04:57,283] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 21:04:57,284] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 21:04:57,852] Login As Admin - step 03: Verify login success
+[2022-04-07 21:04:58,334]  -------------------------- PASSED -------------------------- 
+[2022-04-07 21:07:58,339] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 21:08:02,943] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 21:08:03,223] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 21:08:03,224] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 21:08:03,783] Login As Admin - step 03: Verify login success
+[2022-04-07 21:08:04,171]  -------------------------- PASSED -------------------------- 
+[2022-04-07 21:59:09,966] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 21:59:18,574] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 21:59:19,036] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 21:59:19,271] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 21:59:19,506] Login As Admin - step 03: Click to login button
+[2022-04-07 21:59:19,626] Login As Admin - step 04: Verify login success
+[2022-04-07 21:59:20,004]  -------------------------- PASSED -------------------------- 
+[2022-04-07 22:40:00,121] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 22:40:06,535] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 22:40:06,714] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 22:40:06,956] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 22:40:07,145] Login As Admin - step 03: Click to login button
+[2022-04-07 22:40:07,275] Login As Admin - step 04: Verify login success
+[2022-04-07 22:40:07,835]  -------------------------- PASSED -------------------------- 
+[2022-04-07 22:40:08,036] Add Employee - step 01: Open page Employee
+[2022-04-07 22:40:20,325] Add Employee - step 02: Verify List Employee
+[2022-04-07 22:40:20,478]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:32:28,515] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 23:32:34,419] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 23:32:34,807] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 23:32:35,024] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 23:32:35,207] Login As Admin - step 03: Click to login button
+[2022-04-07 23:32:35,327] Login As Admin - step 04: Verify login success
+[2022-04-07 23:32:35,715]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:32:35,930] Add Employee - step 01: Open page Employee
+[2022-04-07 23:32:43,021] Add Employee - step 02: Verify List Employee
+[2022-04-07 23:32:43,200]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:32:43,200] Add Employee - step 03: Click to 'Thêm mới'
+[2022-04-07 23:32:43,374] Add Employee - step 04: Sendkey to 'Tên' 'Automation'
+[2022-04-07 23:32:43,599] Add Employee - step 05: Sendkey to 'Họ' 'Testing'
+[2022-04-07 23:32:43,833] Add Employee - step 06: Sendkey to 'Số điện thoại' '1234567555'
+[2022-04-07 23:32:44,006] Add Employee - step 07: Sendkey to 'Email' 'autotesting6161@gmail.com'
+[2022-04-07 23:32:44,214] Add Employee - step 08: Sendkey to 'Tên người dùng' 'autotesting8935'
+[2022-04-07 23:32:44,418] Add Employee - step 09: Sendkey to 'Mật khẩu' '123456'
+[2022-04-07 23:32:44,585] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-07 23:32:44,585] Add Employee - step 11: Selected to 'Vai trò' 'Nhân viên'
+[2022-04-07 23:32:44,586] Add Employee - step 12: Selected to 'Khoa' 'QA'
+[2022-04-07 23:32:44,586] Add Employee - step 13: Selected to 'Chỉ định' 'Manual'
+[2022-04-07 23:32:44,586] Add Employee - step 14: Sendkey to 'Mức Lương Cơ Bản' '40000000'
+[2022-04-07 23:32:44,586] Add Employee - step 15: Sendkey to 'Tỷ lệ hàng giờ' '70'
+[2022-04-07 23:32:44,586] Add Employee - step 16: click to button 'Lưu' '
+[2022-04-07 23:33:24,089] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 23:33:28,408] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 23:33:28,746] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 23:33:28,963] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 23:33:29,150] Login As Admin - step 03: Click to login button
+[2022-04-07 23:33:29,246] Login As Admin - step 04: Verify login success
+[2022-04-07 23:33:29,699]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:33:29,929] Add Employee - step 01: Open page Employee
+[2022-04-07 23:33:37,921] Add Employee - step 02: Verify List Employee
+[2022-04-07 23:33:38,072]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:33:38,072] Add Employee - step 03: Click to 'Thêm mới'
+[2022-04-07 23:33:38,262] Add Employee - step 04: Sendkey to 'Tên' 'Automation'
+[2022-04-07 23:33:38,573] Add Employee - step 05: Sendkey to 'Họ' 'Testing'
+[2022-04-07 23:33:38,771] Add Employee - step 06: Sendkey to 'Số điện thoại' '1234567555'
+[2022-04-07 23:33:38,958] Add Employee - step 07: Sendkey to 'Email' 'autotesting8684@gmail.com'
+[2022-04-07 23:33:39,237] Add Employee - step 08: Sendkey to 'Tên người dùng' 'autotesting7471'
+[2022-04-07 23:33:39,465] Add Employee - step 09: Sendkey to 'Mật khẩu' '123456'
+[2022-04-07 23:33:39,661] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-07 23:33:39,661] Add Employee - step 11: Selected to 'Vai trò' 'Nhân viên'
+[2022-04-07 23:33:39,661] Add Employee - step 12: Selected to 'Khoa' 'QA'
+[2022-04-07 23:33:39,662] Add Employee - step 13: Selected to 'Chỉ định' 'Manual'
+[2022-04-07 23:33:39,662] Add Employee - step 14: Sendkey to 'Mức Lương Cơ Bản' '40000000'
+[2022-04-07 23:33:39,662] Add Employee - step 15: Sendkey to 'Tỷ lệ hàng giờ' '70'
+[2022-04-07 23:33:39,662] Add Employee - step 16: click to button 'Lưu' '
+[2022-04-07 23:50:29,224] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 23:50:34,130] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 23:50:34,419] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 23:50:34,654] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 23:50:34,858] Login As Admin - step 03: Click to login button
+[2022-04-07 23:50:34,975] Login As Admin - step 04: Verify login success
+[2022-04-07 23:50:35,410]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:50:35,621] Add Employee - step 01: Open page Employee
+[2022-04-07 23:50:39,410] Add Employee - step 02: Verify List Employee
+[2022-04-07 23:50:39,661]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:50:39,661] Add Employee - step 03: Click to 'Thêm mới'
+[2022-04-07 23:50:39,833] Add Employee - step 04: Sendkey to 'Tên' 'Automation'
+[2022-04-07 23:50:40,130] Add Employee - step 05: Sendkey to 'Họ' 'Testing'
+[2022-04-07 23:50:40,348] Add Employee - step 06: Sendkey to 'Số điện thoại' '1234567555'
+[2022-04-07 23:50:40,584] Add Employee - step 07: Sendkey to 'Email' 'autotesting4552@gmail.com'
+[2022-04-07 23:50:40,841] Add Employee - step 08: Sendkey to 'Tên người dùng' 'autotesting9202'
+[2022-04-07 23:50:41,074] Add Employee - step 09: Sendkey to 'Mật khẩu' '123456'
+[2022-04-07 23:50:41,280] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-07 23:52:59,802] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-07 23:53:03,568] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-07 23:53:03,975] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-07 23:53:04,433] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-07 23:53:04,648] Login As Admin - step 03: Click to login button
+[2022-04-07 23:53:04,777] Login As Admin - step 04: Verify login success
+[2022-04-07 23:53:05,124]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:53:05,350] Add Employee - step 01: Open page Employee
+[2022-04-07 23:53:10,145] Add Employee - step 02: Verify List Employee
+[2022-04-07 23:53:10,312]  -------------------------- PASSED -------------------------- 
+[2022-04-07 23:53:10,312] Add Employee - step 03: Click to 'Thêm mới'
+[2022-04-07 23:53:10,476] Add Employee - step 04: Sendkey to 'Tên' 'Automation'
+[2022-04-07 23:53:10,752] Add Employee - step 05: Sendkey to 'Họ' 'Testing'
+[2022-04-07 23:53:10,961] Add Employee - step 06: Sendkey to 'Số điện thoại' '1234567555'
+[2022-04-07 23:53:11,161] Add Employee - step 07: Sendkey to 'Email' 'autotesting4926@gmail.com'
+[2022-04-07 23:53:11,383] Add Employee - step 08: Sendkey to 'Tên người dùng' 'autotesting7871'
+[2022-04-07 23:53:11,572] Add Employee - step 09: Sendkey to 'Mật khẩu' '123456'
+[2022-04-07 23:53:11,736] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-07 23:53:14,076] Add Employee - step 11: Selected to 'Vai trò' 'Nhân viên'
+[2022-04-07 23:53:14,076] Add Employee - step 12: Selected to 'Khoa' 'QA'
+[2022-04-07 23:53:14,076] Add Employee - step 13: Selected to 'Chỉ định' 'Manual'
+[2022-04-07 23:53:14,076] Add Employee - step 14: Sendkey to 'Mức Lương Cơ Bản' '40000000'
+[2022-04-07 23:53:14,077] Add Employee - step 15: Sendkey to 'Tỷ lệ hàng giờ' '70'
+[2022-04-07 23:53:14,077] Add Employee - step 16: click to button 'Lưu' '
+[2022-04-08 00:04:44,303] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 00:04:48,645] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 00:04:49,061] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 00:04:49,375] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 00:04:49,567] Login As Admin - step 03: Click to login button
+[2022-04-08 00:04:49,691] Login As Admin - step 04: Verify login success
+[2022-04-08 00:04:50,048]  -------------------------- PASSED -------------------------- 
+[2022-04-08 00:04:50,261] Add Employee - step 01: Open page Employee
+[2022-04-08 00:04:56,608] Add Employee - step 02: Verify List Employee
+[2022-04-08 00:04:56,821]  -------------------------- PASSED -------------------------- 
+[2022-04-08 00:04:56,821] Add Employee - step 03: Click to 'Thêm mới'
+[2022-04-08 00:04:56,985] Add Employee - step 04: Sendkey to 'Tên' 'Automation'
+[2022-04-08 00:04:57,220] Add Employee - step 05: Sendkey to 'Họ' 'Testing'
+[2022-04-08 00:04:57,415] Add Employee - step 06: Sendkey to 'Số điện thoại' '1234567555'
+[2022-04-08 00:04:57,612] Add Employee - step 07: Sendkey to 'Email' 'autotesting431@gmail.com'
+[2022-04-08 00:04:57,814] Add Employee - step 08: Sendkey to 'Tên người dùng' 'autotesting7319'
+[2022-04-08 00:04:58,012] Add Employee - step 09: Sendkey to 'Mật khẩu' '123456'
+[2022-04-08 00:04:58,200] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-08 00:05:00,521] Add Employee - step 11: Selected to 'Vai trò' 'Nhân viên'
+[2022-04-08 00:06:39,180] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 00:06:43,509] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 00:06:43,854] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 00:06:44,139] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 00:06:44,338] Login As Admin - step 03: Click to login button
+[2022-04-08 00:06:44,460] Login As Admin - step 04: Verify login success
+[2022-04-08 00:06:44,876]  -------------------------- PASSED -------------------------- 
+[2022-04-08 00:06:45,094] Add Employee - step 01: Open page Employee
+[2022-04-08 00:06:48,898] Add Employee - step 02: Verify List Employee
+[2022-04-08 00:06:49,115]  -------------------------- PASSED -------------------------- 
+[2022-04-08 00:06:49,115] Add Employee - step 03: Click to 'Thêm mới'
+[2022-04-08 00:06:49,265] Add Employee - step 04: Sendkey to 'Tên' 'Automation'
+[2022-04-08 00:06:49,534] Add Employee - step 05: Sendkey to 'Họ' 'Testing'
+[2022-04-08 00:06:49,726] Add Employee - step 06: Sendkey to 'Số điện thoại' '1234567555'
+[2022-04-08 00:06:49,896] Add Employee - step 07: Sendkey to 'Email' 'autotesting5756@gmail.com'
+[2022-04-08 00:06:50,110] Add Employee - step 08: Sendkey to 'Tên người dùng' 'autotesting2839'
+[2022-04-08 00:06:50,308] Add Employee - step 09: Sendkey to 'Mật khẩu' '123456'
+[2022-04-08 00:06:50,509] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-08 00:06:52,761] Add Employee - step 11: Selected to 'Vai trò' 'Nhân viên'
+[2022-04-08 00:06:54,946] Add Employee - step 12: Selected to 'Khoa' 'QA'
+[2022-04-08 00:06:54,946] Add Employee - step 13: Selected to 'Chỉ định' 'Manual'
+[2022-04-08 00:06:54,946] Add Employee - step 14: Sendkey to 'Mức Lương Cơ Bản' '40000000'
+[2022-04-08 00:06:54,946] Add Employee - step 15: Sendkey to 'Tỷ lệ hàng giờ' '70'
+[2022-04-08 00:06:54,946] Add Employee - step 16: click to button 'Lưu' '
+[2022-04-08 21:16:52,920] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:16:59,370] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:16:59,695] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:16:59,954] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:17:00,178] Login As Admin - step 03: Click to login button
+[2022-04-08 21:17:00,333] Login As Admin - step 04: Verify login success
+[2022-04-08 21:17:00,716]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:17:01,990] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:17:04,421] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:17:04,430] Add Employee - step 01: Open page Employee
+[2022-04-08 21:17:04,843] OS name = windows 10
+[2022-04-08 21:17:04,843] Driver instance name = chromedriver: chrome on windows (a714cbff211c79441dd3af5a71b03d11)
+[2022-04-08 21:20:38,433] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:20:43,160] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:20:43,433] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:20:43,735] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:20:43,920] Login As Admin - step 03: Click to login button
+[2022-04-08 21:20:44,085] Login As Admin - step 04: Verify login success
+[2022-04-08 21:20:44,428]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:20:45,795] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:20:50,483] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:20:50,488] Pre-Condition - step 03: Login as admin
+[2022-04-08 21:20:55,837] Add Employee - step 01: Open page Employee
+[2022-04-08 21:20:56,116] OS name = windows 10
+[2022-04-08 21:20:56,116] Driver instance name = chromedriver: chrome on windows (77858fc83831d173a13ff45f78213456)
+[2022-04-08 21:33:53,782] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:34:04,831] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:34:05,039] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:34:05,278] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:34:05,446] Login As Admin - step 03: Click to login button
+[2022-04-08 21:34:05,598] Login As Admin - step 04: Verify login success
+[2022-04-08 21:34:05,953]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:34:07,011] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:34:09,286] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:34:09,288] Pre-Condition - step 03: Login as admin
+[2022-04-08 21:34:14,600] Add Employee - step 01: Open page Employee
+[2022-04-08 21:34:34,877] OS name = windows 10
+[2022-04-08 21:34:34,877] Driver instance name = chromedriver: chrome on windows (f76795f60307a95cf4bee542c1b986e8)
+[2022-04-08 21:37:04,097] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:37:08,539] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:37:08,796] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:37:09,074] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:37:09,251] Login As Admin - step 03: Click to login button
+[2022-04-08 21:37:09,391] Login As Admin - step 04: Verify login success
+[2022-04-08 21:37:09,759]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:37:10,951] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:37:14,027] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:37:14,029] Pre-Condition - step 03: Login as admin
+[2022-04-08 21:37:19,370] Add Employee - step 01: Open page Employee
+[2022-04-08 21:37:39,737] OS name = windows 10
+[2022-04-08 21:37:39,738] Driver instance name = chromedriver: chrome on windows (a5b81cdd19e38051678de4e397588354)
+[2022-04-08 21:39:30,228] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:39:37,041] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:39:37,204] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:39:37,529] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:39:37,723] Login As Admin - step 03: Click to login button
+[2022-04-08 21:39:37,870] Login As Admin - step 04: Verify login success
+[2022-04-08 21:39:38,768]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:39:39,916] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:39:42,024] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:39:42,028] Pre-Condition - step 03: Login as admin
+[2022-04-08 21:39:47,242] Add Employee - step 01: Open page Employee
+[2022-04-08 21:40:07,665] OS name = windows 10
+[2022-04-08 21:40:07,665] Driver instance name = chromedriver: chrome on windows (62e9ea1d5410f6313acecb385f09e598)
+[2022-04-08 21:40:56,718] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:41:02,469] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:41:02,899] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:41:03,371] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:41:03,608] Login As Admin - step 03: Click to login button
+[2022-04-08 21:41:03,781] Login As Admin - step 04: Verify login success
+[2022-04-08 21:41:04,146]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:41:05,470] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:41:07,950] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:41:07,956] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:41:08,170] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:41:08,374] Login As Admin - step 03: Click to login button
+[2022-04-08 21:41:08,536] Login As Admin - step 04: Verify login success
+[2022-04-08 21:41:08,889]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:41:08,890] Add Employee - step 01: Open page Employee
+[2022-04-08 21:41:14,797] Add Employee - step 02: Verify List Employee
+[2022-04-08 21:41:14,973]  -------------------------- FAILED -------------------------- 
+[2022-04-08 21:41:14,973] Add Employee - step 03: Click to 'Th�m m?i'
+[2022-04-08 21:41:15,119] Add Employee - step 04: Sendkey to 'T�n' 'Automation'
+[2022-04-08 21:41:15,390] Add Employee - step 05: Sendkey to 'H?' 'Testing'
+[2022-04-08 21:41:15,593] Add Employee - step 06: Sendkey to 'S? ?i?n tho?i' '1234567555'
+[2022-04-08 21:41:15,793] Add Employee - step 07: Sendkey to 'Email' 'autotesting5946@gmail.com'
+[2022-04-08 21:41:16,059] Add Employee - step 08: Sendkey to 'T�n ng??i d�ng' 'autotesting2659'
+[2022-04-08 21:41:16,254] Add Employee - step 09: Sendkey to 'M?t kh?u' '123456'
+[2022-04-08 21:41:16,442] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-08 21:41:18,709] Add Employee - step 11: Selected to 'Vai tr�' 'Nh�n vi�n'
+[2022-04-08 21:41:20,929] Add Employee - step 12: Selected to 'Khoa' 'QA'
+[2022-04-08 21:41:22,068] Add Employee - step 13: Selected to 'Ch? ??nh' 'Manual'
+[2022-04-08 21:41:43,494] OS name = windows 10
+[2022-04-08 21:41:43,494] Driver instance name = chromedriver: chrome on windows (85062df64d1c3cf29b07834b9a32ed35)
+[2022-04-08 21:42:56,173] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:43:00,702] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:43:00,902] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:43:01,248] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:43:01,439] Login As Admin - step 03: Click to login button
+[2022-04-08 21:43:01,586] Login As Admin - step 04: Verify login success
+[2022-04-08 21:43:01,955]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:43:03,091] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 21:43:05,328] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 21:43:05,332] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 21:43:05,570] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 21:43:05,769] Login As Admin - step 03: Click to login button
+[2022-04-08 21:43:05,896] Login As Admin - step 04: Verify login success
+[2022-04-08 21:43:06,302]  -------------------------- PASSED -------------------------- 
+[2022-04-08 21:43:06,303] Add Employee - step 01: Open page Employee
+[2022-04-08 21:43:10,122] Add Employee - step 02: Verify List Employee
+[2022-04-08 21:43:10,501] OS name = windows 10
+[2022-04-08 21:43:10,501] Driver instance name = chromedriver: chrome on windows (0f154dfe6953f2542eb9bfbb22d2dec5)
+[2022-04-08 22:18:55,463] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 22:19:01,391] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 22:19:01,883] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 22:19:02,298] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 22:19:02,488] Login As Admin - step 03: Click to login button
+[2022-04-08 22:19:02,649] Login As Admin - step 04: Verify login success
+[2022-04-08 22:19:02,989]  -------------------------- PASSED -------------------------- 
+[2022-04-08 22:19:04,748] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 22:19:08,153] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 22:19:08,247] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 22:19:08,482] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 22:19:08,682] Login As Admin - step 03: Click to login button
+[2022-04-08 22:19:08,806] Login As Admin - step 04: Verify login success
+[2022-04-08 22:19:09,176]  -------------------------- PASSED -------------------------- 
+[2022-04-08 22:19:09,176] Add Employee - step 01: Open page Employee
+[2022-04-08 22:19:13,712] Add Employee - step 02: Verify List Employee
+[2022-04-08 22:19:13,779]  -------------------------- FAILED -------------------------- 
+[2022-04-08 22:19:13,779] Add Employee - step 03: Click to 'Thêm mới'
+[2022-04-08 22:19:13,984] Add Employee - step 04: Sendkey to 'Tên' 'Automation'
+[2022-04-08 22:19:14,310] Add Employee - step 05: Sendkey to 'Họ' 'Testing'
+[2022-04-08 22:19:14,570] Add Employee - step 06: Sendkey to 'Số điện thoại' '1234567555'
+[2022-04-08 22:19:14,781] Add Employee - step 07: Sendkey to 'Email' 'autotesting8888@gmail.com'
+[2022-04-08 22:19:15,015] Add Employee - step 08: Sendkey to 'Tên người dùng' 'autotesting399'
+[2022-04-08 22:19:15,249] Add Employee - step 09: Sendkey to 'Mật khẩu' '123456'
+[2022-04-08 22:19:15,444] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-08 22:19:17,665] Add Employee - step 11: Selected to 'Vai trò' 'Nhân viên'
+[2022-04-08 22:19:19,881] Add Employee - step 12: Selected to 'Khoa' 'QA'
+[2022-04-08 22:19:22,086] Add Employee - step 13: Selected to 'Chỉ định' 'Manual'
+[2022-04-08 22:19:32,461] Add Employee - step 14: Sendkey to 'Mức Lương Cơ Bản' '40000000'
+[2022-04-08 22:19:32,680] Add Employee - step 15: Sendkey to 'Tỷ lệ hàng giờ' '70'
+[2022-04-08 22:19:32,868] Add Employee - step 16: Upload 'Avatar' 'cu-cai-1.jpg'
+[2022-04-08 22:19:32,917] Add Employee - step 17: click to button 'Lưu' '
+[2022-04-08 22:19:33,369] OS name = windows 10
+[2022-04-08 22:19:33,370] Driver instance name = chromedriver: chrome on windows (e4e735f9aa5f53583bb5072402c50070)
+[2022-04-08 22:25:03,987] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 22:25:09,429] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 22:25:09,730] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 22:25:10,039] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 22:25:10,232] Login As Admin - step 03: Click to login button
+[2022-04-08 22:25:10,409] Login As Admin - step 04: Verify login success
+[2022-04-08 22:25:10,792]  -------------------------- PASSED -------------------------- 
+[2022-04-08 22:25:12,112] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 22:25:14,672] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 22:25:14,682] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 22:25:14,890] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 22:25:15,052] Login As Admin - step 03: Click to login button
+[2022-04-08 22:25:15,189] Login As Admin - step 04: Verify login success
+[2022-04-08 22:25:15,539]  -------------------------- PASSED -------------------------- 
+[2022-04-08 22:25:15,539] Add Employee - step 01: Open page Employee
+[2022-04-08 22:25:19,441] Add Employee - step 02: Verify List Employee
+[2022-04-08 22:25:19,441] Add Employee - step 03: Click to 'Th�m m?i'
+[2022-04-08 22:25:19,645] Add Employee - step 04: Sendkey to 'T�n' 'Automation'
+[2022-04-08 22:25:19,914] Add Employee - step 05: Sendkey to 'H?' 'Testing'
+[2022-04-08 22:25:20,144] Add Employee - step 06: Sendkey to 'S? ?i?n tho?i' '1234567555'
+[2022-04-08 22:25:20,330] Add Employee - step 07: Sendkey to 'Email' 'autotesting7900@gmail.com'
+[2022-04-08 22:25:20,554] Add Employee - step 08: Sendkey to 'T�n ng??i d�ng' 'autotesting4260'
+[2022-04-08 22:25:20,757] Add Employee - step 09: Sendkey to 'M?t kh?u' '123456'
+[2022-04-08 22:25:20,940] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-08 22:25:23,198] Add Employee - step 11: Selected to 'Vai tr�' 'Nh�n vi�n'
+[2022-04-08 22:25:25,397] Add Employee - step 12: Selected to 'Khoa' 'QA'
+[2022-04-08 22:25:29,581] Add Employee - step 13: Selected to 'Ch? ??nh' 'Manual'
+[2022-04-08 22:25:31,915] Add Employee - step 14: Sendkey to 'M?c L??ng C? B?n' '40000000'
+[2022-04-08 22:25:32,124] Add Employee - step 15: Sendkey to 'T? l? h�ng gi?' '70'
+[2022-04-08 22:25:32,293] Add Employee - step 16: Upload 'Avatar' 'cu-cai-1.jpg'
+[2022-04-08 22:25:32,337] Add Employee - step 17: click to button 'L?u' '
+[2022-04-08 22:25:32,495] OS name = windows 10
+[2022-04-08 22:25:32,495] Driver instance name = chromedriver: chrome on windows (738d888df866551bf4e88d0d180fd9ae)

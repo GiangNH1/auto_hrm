@@ -1,0 +1,33 @@
+[2022-04-08 22:25:03,987] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 22:25:09,429] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 22:25:09,730] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 22:25:10,039] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 22:25:10,232] Login As Admin - step 03: Click to login button
+[2022-04-08 22:25:10,409] Login As Admin - step 04: Verify login success
+[2022-04-08 22:25:10,792]  -------------------------- PASSED -------------------------- 
+[2022-04-08 22:25:12,112] Pre-Condition - step 01 Open page with 'chrome'
+[2022-04-08 22:25:14,672] Pre-Condition - step 02: Initialization 'Login' page
+[2022-04-08 22:25:14,682] Login As Admin - step 01: Enter to userName with 'admin01'
+[2022-04-08 22:25:14,890] Login As Admin - step 02: Enter to Password with '123456'
+[2022-04-08 22:25:15,052] Login As Admin - step 03: Click to login button
+[2022-04-08 22:25:15,189] Login As Admin - step 04: Verify login success
+[2022-04-08 22:25:15,539]  -------------------------- PASSED -------------------------- 
+[2022-04-08 22:25:15,539] Add Employee - step 01: Open page Employee
+[2022-04-08 22:25:19,441] Add Employee - step 02: Verify List Employee
+[2022-04-08 22:25:19,441] Add Employee - step 03: Click to 'Thêm m?i'
+[2022-04-08 22:25:19,645] Add Employee - step 04: Sendkey to 'Tên' 'Automation'
+[2022-04-08 22:25:19,914] Add Employee - step 05: Sendkey to 'H?' 'Testing'
+[2022-04-08 22:25:20,144] Add Employee - step 06: Sendkey to 'S? ?i?n tho?i' '1234567555'
+[2022-04-08 22:25:20,330] Add Employee - step 07: Sendkey to 'Email' 'autotesting7900@gmail.com'
+[2022-04-08 22:25:20,554] Add Employee - step 08: Sendkey to 'Tên ng??i dùng' 'autotesting4260'
+[2022-04-08 22:25:20,757] Add Employee - step 09: Sendkey to 'M?t kh?u' '123456'
+[2022-04-08 22:25:20,940] Add Employee - step 10: Selected to 'Office Shift' 'Office Shift 01'
+[2022-04-08 22:25:23,198] Add Employee - step 11: Selected to 'Vai trò' 'Nhân viên'
+[2022-04-08 22:25:25,397] Add Employee - step 12: Selected to 'Khoa' 'QA'
+[2022-04-08 22:25:29,581] Add Employee - step 13: Selected to 'Ch? ??nh' 'Manual'
+[2022-04-08 22:25:31,915] Add Employee - step 14: Sendkey to 'M?c L??ng C? B?n' '40000000'
+[2022-04-08 22:25:32,124] Add Employee - step 15: Sendkey to 'T? l? hàng gi?' '70'
+[2022-04-08 22:25:32,293] Add Employee - step 16: Upload 'Avatar' 'cu-cai-1.jpg'
+[2022-04-08 22:25:32,337] Add Employee - step 17: click to button 'L?u' '
+[2022-04-08 22:25:32,495] OS name = windows 10
+[2022-04-08 22:25:32,495] Driver instance name = chromedriver: chrome on windows (738d888df866551bf4e88d0d180fd9ae)

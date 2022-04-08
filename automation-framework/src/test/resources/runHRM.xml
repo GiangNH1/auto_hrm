@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HRM AnhTester">
+
+	<parameter name="url" value="https://hrm.anhtester.com/erp/login"/>
+	<listeners>
+		<listener class-name="commons.MethodListener"/>
+		<listener class-name="ReportConfig.ReportNGListener"/>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    	<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+	</listeners>
+
+	<!--<test name="Run Nopcommerce On Firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.nopcommerce.user.Level_16_Log_ReportNG_V5" />
+		</classes>
+	</test>   Test -->
+
+	<test name="Run HRM On Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestCases.Login" />
+			<class name="TestCases.Employee" />
+		</classes>
+	</test> <!-- Test -->
+
+	<!-- <test name="Run Nopcommerce On Edge">
+		<parameter name="browser" value="edge" />
+		<classes>
+			<class name="com.nopcommerce.user.WebDriverManager" />
+		</classes>
+	</test>  Test -->
+</suite> <!-- Suite -->
